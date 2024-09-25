@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://juceselavoba.netlify.app/sitemap.xml
